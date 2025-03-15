@@ -1,7 +1,5 @@
 ## 👋 你好啊, 我是石上三年, 也可以直接叫我赵梓霖
 
-![Visitor Count](https://profile-counter.glitch.me/sssn-tech/count.svg)
-
 ## 关于我
 - 吉林大学软件学院 大三在读
 - C++/Java/Python OK 
@@ -13,6 +11,9 @@
 
 ## 个人博客
 (石上三年Official)[https://blog.sssn.tech]
+
+## 当前访客计数
+![Visitor Count](https://profile-counter.glitch.me/sssn-tech/count.svg)
 
 
 <!--
