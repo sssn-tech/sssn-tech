@@ -1,13 +1,15 @@
-## 👋 你好啊, 我是石上三年, 你也可以直接叫我赵梓霖
+## 👋 你好啊, 我是石上三年
+### 石上三年(sssn)是我在大部分互联网平台的ID, 我的真名是赵梓霖
 
 ## 关于我
 - 吉林大学软件学院 大三在读
 - C++/Java/Python OK 
-- 对**机器学习(ML)**方向较有兴趣
+- 对机器学习(ML)方向较有兴趣
 - 目前在做多智能体强化学习(MARL)
   
 ## 联系方式
-`sssn_@outlook.com`
+- sssn_@outlook.com
+- zhao_zilin@outlook.com
 
 ## 个人博客
 [石上三年Official](https://blog.sssn.tech)
