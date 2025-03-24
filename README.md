@@ -14,9 +14,6 @@
 ## 个人博客
 [石上三年Official](https://blog.sssn.tech)
 
-## 当前访客计数
-![Visitor Count](https://profile-counter.glitch.me/sssn-tech/count.svg)
-
 
 <!--
 **sssn-tech/sssn-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
