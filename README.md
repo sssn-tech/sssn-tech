@@ -6,7 +6,7 @@
 - 学习兴趣: LLM agent / 强化学习 / 多智能体系统
 
 ## 活跃平台
-- [QQ群(绿群)](https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki/)
+- [绿群](https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki/)
 - [小红书(8660898959)](https://www.xiaohongshu.com/user/profile/6503f20a0000000012006cbc)
 
 ## 联系方式
