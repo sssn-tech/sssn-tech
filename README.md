@@ -3,7 +3,7 @@
 
 ## 关于我
 - 吉林大学软件学院 -> 南京大学智能科学与技术学院, 研零
-- 学习兴趣: LLM agent/强化学习/多智能体系统
+- 学习兴趣: LLM agent / 强化学习 / 多智能体系统
 
 ## 活跃平台
 - [QQ群(绿群)](https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki/)
