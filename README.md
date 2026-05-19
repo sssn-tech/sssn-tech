@@ -3,7 +3,7 @@
 
 ## 关于我
 - 吉林大学 软件学院 -> 南京大学 智能科学与技术学院, 目前研零
-- 学习兴趣: LLM agent / 强化学习 / 多智能体系统
+- 学习兴趣: 强化学习 / LLM
 - 现在在字节做算法实习
 - 欢迎找我讨论各种有趣的问题！
 
@@ -18,18 +18,3 @@
 ## 个人博客
 - [石上三年Official](https://blog.sssn.tech)
 
-
-<!--
-**sssn-tech/sssn-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
